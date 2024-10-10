@@ -91,7 +91,9 @@ If you are using a Python script to have members join your meeting and you are f
 Network Stability: Ensure that both your RDP and network connection are stable, as connectivity problems can lead to participants dropping out.
 Zoom Account Settings: Review your Zoom account settings, as specific configurations may affect participant stability in your meeting.
 Script Reliability: Check the reliability of the Python script you are using. It’s essential that the script is well-coded and free from errors that might cause participants to leave unexpectedly.
-Zoom Meeting Participants Why Not Join The Mic
+
+## Zoom Meeting Participants Why Not Join The Mic
+
 When you start your Python script, and members join successfully but encounter issues with their microphones not connecting, it’s possible that there may be problems with your XPaths or button IDs. XPath and button IDs are crucial elements in web automation,
 
 If you have script for update you can contact us on	WhatsApp
@@ -99,17 +101,17 @@ and they help in locating and interacting with specific elements on a web page. 
 
 If you are not familiar with XPath and button IDs, you can consider hiring a developer to update your script. This issue is likely related to script updates, and a developer can help ensure that your script functions smoothly and addresses the microphone connection problem.
 
-Zoom Meeting Participants App
+## Zoom Meeting Participants App
 To add Meeting members to a Zoom meeting, you are correct that Zoom does not provide an official app for this purpose. The most common method for achieving this is by using a Python script, as you mentioned.
 
 If you require a Python script, you can download it by clicking on the download button provided in the article above.
 
-How to get zoom Meeting participants by country
+## How to get zoom Meeting participants by country
 You can use the “Zoom Meeting Participants by Country” feature to have participants join based on the country names you specify in your “name.csv” file. When you start the software, it will automatically use the names from the CSV file to join your meeting,
 
 ensuring that participants from the specified countries are added to your Zoom meeting. This feature can be useful for adding participants from specific regions to your meeting.
 
-zoom Meeting participants error
+## zoom Meeting participants error
 There are indeed various reasons why you might encounter errors when using Zoom Meeting Participants. These could be related to your internet connection, username/password issues, computer configuration, updates for Google Chrome or Zoom, and more.
 
 If you’re facing persistent errors, it’s a good idea to seek assistance from a developer who can help you identify and resolve these issues by updating your script and configurations. If you don’t have a developer available, you can comment on this article, and we will provide you with the necessary help and guidance. Our goal is to support you in your endeavors and ensure that you can successfully achieve your objectives.
