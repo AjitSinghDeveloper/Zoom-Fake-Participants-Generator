@@ -14,7 +14,7 @@ These are the members who join the meeting with both their webcam and microphone
 ### What is Premium Members
 These are the members who join your meeting with their microphone, webcam, and profile photo enabled.
 
-### All the requirements related to the Zoom Fake Participants Generator are detailed on the website. Please read the requirements carefully first. If you still wish to purchase the software, you can contact us on WhatsApp. Otherwise, let’s not waste each other’s time. Also, note that the software is paid. If you’re looking for something free, please try elsewhere.</span>
+### All the requirements related to the Zoom Fake Participants Generator are detailed are here. Please read the requirements carefully first. If you still wish to purchase the software, you can contact us on WhatsApp. Otherwise, let’s not waste each other’s time. Also, note that the software is paid. If you’re looking for something free, please try elsewhere.</span>
 
 ## Zoom Meeting Participants Generator Detail’s & Requirement’s
 
