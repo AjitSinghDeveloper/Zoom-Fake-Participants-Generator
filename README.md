@@ -44,7 +44,7 @@ To quickly add members to your Zoom meeting, you will need a Remote Desktop (RDP
 
 [Click On Button And Read About Telegram marketing Tools]
 
-[![Telegram Fake User Filter Using Python](https://img.shields.io/badge/Telegram-Fake-User-Filter-Using-Python-blue?style=for-the-badge)]([https://api.whatsapp.com/send?phone=918059199600&text=Hi,%20Sir%20i%20need%20Zoom%20Fake%20Participants%20Generator%20Software](https://github.com/AjitSinghDeveloper/Telegram-Fake-User-Filter-Using-Python))
+[![Telegram Fake User Filter Using Python](https://img.shields.io/badge/TelegramFakeUserFilter-UsingPython-red?style=for-the-badge)]([https://api.whatsapp.com/send?phone=918059199600&text=Hi,%20Sir%20i%20need%20Zoom%20Fake%20Participants%20Generator%20Software](https://github.com/AjitSinghDeveloper/Telegram-Fake-User-Filter-Using-Python))
 
 # How many member we can join in meeting using this software
 According to your plan and with an Intel Xeon 16-Core processor and 64 GB RAM RDP, you can have approximately 40 to 50 members join using a single RDP. If you wish to have 1000 members join your meeting, you would need to employ 20 RDPs to achieve that.
