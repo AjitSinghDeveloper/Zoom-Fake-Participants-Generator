@@ -78,13 +78,14 @@ You can use the Zoom Meeting Participants Generator with great ease. As per the 
 **Start Tool File :** In the folder you downloaded, you will find a file named “Start.py.” Open and run this file to begin the process, and observe as members start joining your meeting.
 
 ### How do you add Meeting participants in zoom?
-Does Zoom generate a list of participants? Indeed, with the assistance of the Zoom Meeting Participants software, you can easily save members as per your requirements in your “name.csv” file and have them join your meeting seamlessly.
+## Does Zoom generate a list of participants? 
+Indeed, with the assistance of the Zoom Meeting Participants software, you can easily save members as per your requirements in your “name.csv” file and have them join your meeting seamlessly.
 
 To join a list of members with names according to your preferences, start by opening the “name.csv” file and save the names you desire. Next, edit the “config.ini” file, specifying the number of members you wish to join,
 
 and then save the file. Finally, initiate the “Start.py” file from the software folder. This process allows you to have members join your meeting based on your specified name list.
 
-Adding Meeting zoom Participants but script is not stable
+### Adding Meeting zoom Participants but script is not stable
 If you are using a Python script to have members join your meeting and you are facing issues with participant stability, such as participants leaving the meeting after a certain period, there could be several factors contributing to this:
 
 Network Stability: Ensure that both your RDP and network connection are stable, as connectivity problems can lead to participants dropping out.
