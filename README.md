@@ -34,4 +34,5 @@ zoom fake participants website (Zoom Participants Software) is a tool developed 
 
 ## Play Zoom Fake Participants Generator Video For Demo
 Watch Our Demo Video
-[![Watch the Demo Video](link_to_your_thumbnail_image)]([https://www.youtube.com/watch?v=your_video_id](https://www.youtube.com/watch?v=WFNjIAlkSPI))
+[![Watch the Demo Video](https://github.com/AjitSinghDeveloper/Zoom-Fake-Participants-Generator/blob/main/maxresdefault.jpg)](https://www.youtube.com/watch?v=WFNjIAlkSPI)
+
