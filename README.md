@@ -33,7 +33,7 @@ These are the members who join your meeting with their microphone, webcam, and p
 zoom fake participants website (Zoom Participants Software) is a tool developed using the Python programming language. By using this software, we can automate the process of joining participants in our meetings, making it easier to ensure a successful and well-attended meeting
 
 ## Play Zoom Fake Participants Generator Video For Demo
-Watch Our Demo Video
+Click on this Image and Watch Demo
 [![Watch the Demo Video](https://github.com/AjitSinghDeveloper/Zoom-Fake-Participants-Generator/blob/main/maxresdefault.jpg)](https://www.youtube.com/watch?v=WFNjIAlkSPI)
 
 ### How do you get 1000 participants on Zoom?
