@@ -63,3 +63,16 @@ Sponsors and partners often look at the number of participants when deciding to 
 ### Educational Impact: 
 In educational settings, a bigger audience can encourage students to be more attentive and participate actively in discussions.
 
+## How to Use Zoom Meeting Participants Generator
+
+You can use the Zoom Meeting Participants Generator with great ease. As per the instructions mentioned above, if you have an RDP, you can follow the steps outlined below :-
+
+**Python Download :** First, open Google Chrome and proceed to download Python 3.10.3 version.
+
+**Install Modul :** Next, locate the Python file named “Install.py” within the software, and double-click on it to install Python modules.
+
+**Setup Config File :** Open the configuration file and enter your meeting’s ID, password, and the desired number of members to join. After making these entries, save the file.
+
+**Start Meeting :** Now, go to your meeting and start it.
+
+**Start Tool File :** In the folder you downloaded, you will find a file named “Start.py.” Open and run this file to begin the process, and observe as members start joining your meeting.
