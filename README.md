@@ -36,9 +36,8 @@ zoom fake participants website (Zoom Participants Software) is a tool developed 
 
 ## Play Zoom Fake Participants Generator Video For Demo
 Click on this Image and Watch Demo
-<a href="https://www.youtube.com/watch?v=AlIyodWMsw8" target="_blank">
-  <img src="https://github.com/AjitSinghDeveloper/Zoom-Fake-Participants-Generator/blob/main/maxresdefault.jpg" alt="Watch Demo Video">
-</a>
+[![Watch the Demo Video](https://github.com/AjitSinghDeveloper/Zoom-Fake-Participants-Generator/blob/main/maxresdefault.jpg)](https://www.youtube.com/watch?v=AlIyodWMsw8)
+
 
 
 ### How do you get 1000 participants on Zoom?
