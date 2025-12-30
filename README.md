@@ -29,6 +29,7 @@ These are the members who join your meeting with their microphone, webcam, and p
 | Storage                     | 80 GB                    |
 | Software Price              | Message On WhatsApp      |
 | Multiple Command            | Yes Software will handle multiple meetings |
+| Update or Support           | 3 Months Support or Updates
 
 ## Summary
 zoom fake participants website (Zoom Participants Software) is a tool developed using the Python programming language. By using this software, we can automate the process of joining participants in our meetings, making it easier to ensure a successful and well-attended meeting
