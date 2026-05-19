@@ -1,131 +1,706 @@
-<h1>Zoom Fake Participants Generator Updated Code</h1>
-[Click On Button And Contact us On WhatsApp]
+<div align="center">
 
-[![Contact Us](https://img.shields.io/badge/Contact-Us%20On%20WhatsApp-red?style=for-the-badge)](https://api.whatsapp.com/send?phone=918059199600&text=Hi,%20Sir%20i%20need%20Zoom%20Fake%20Participants%20Generator%20Software)
-<img align="right" alt="coding" width="400" src="https://github.com/AjitSinghDeveloper/Ajit-Singh-Developer/blob/main/coding%20gif.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Meeting%20Bot&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Zoom%20%7C%20Teams%20Meeting%20Participants%20%7C%20Reactions%20%7C%20Comments%20—%20Auto&descAlignY=63&descSize=17" width="100%"/>
 
-Zoom Meeting participants script Download
+<br/>
 
-### What Is Simple Members
-These are the members who join without a microphone, where you can only see the user’s webcam, but no microphone is available.
+[![Telegram Bot](https://img.shields.io/badge/🤖%20Telegram%20Bot-Live%20%26%20Active-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/armanparticipantsbot)
+[![Zoom](https://img.shields.io/badge/Zoom-Auto%20Participants-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]()
+[![Teams](https://img.shields.io/badge/Teams-Auto%20Participants-5059C9?style=for-the-badge&logo=microsoftteams&logoColor=white)]()
+[![Reactions](https://img.shields.io/badge/Auto%20Reactions-ON-FF6B35?style=for-the-badge)]()
+[![Comments](https://img.shields.io/badge/Auto%20Comments-ON-00D26A?style=for-the-badge)]()
+[![Rating](https://img.shields.io/badge/Rating-⭐⭐⭐⭐⭐-FFD700?style=for-the-badge)]()
 
-### What is Professional Members
-These are the members who join the meeting with both their webcam and microphone enabled.
+<br/>
 
-### What is Premium Members
-These are the members who join your meeting with their microphone, webcam, and profile photo enabled.
+**`zoom meeting participants bot`** &nbsp;|&nbsp; **`auto reactions zoom`** &nbsp;|&nbsp; **`meeting engagement bot`** &nbsp;|&nbsp; **`fake participants zoom`** &nbsp;|&nbsp; **`teams meeting bot`** &nbsp;|&nbsp; **`auto comment meeting`** &nbsp;|&nbsp; **`zoom bot telegram`** &nbsp;|&nbsp; **`meeting active dikhana`**
 
-### All the requirements related to the Zoom Fake Participants Generator are detailed are here. Please read the requirements carefully first. If you still wish to purchase the software, you can contact us on WhatsApp. Otherwise, let’s not waste each other’s time. Also, note that the software is paid. If you’re looking for something free, please try elsewhere.</span>
+</div>
 
-## Zoom Meeting Participants Generator Detail’s & Requirement’s
+---
 
-| Detail’s                    | Requirement’s            |
-|-----------------------------|--------------------------|
-| Software Name               | Zoom Fake Participants Generator |
-| Python Version              | Python 3.11.5           |
-| Configuration Requirement    | (RDP) Remote Desktop     |
-| RAM                         | 64 GB                    |
-| Processor                   | Intel Xeon               |
-| Storage                     | 80 GB                    |
-| Software Price              | Message On WhatsApp      |
-| Multiple Command            | Yes Software will handle multiple meetings |
-| Update or Support           | 3 Months Support or Updates
+<br/>
 
-## Summary
-zoom fake participants website (Zoom Participants Software) is a tool developed using the Python programming language. By using this software, we can automate the process of joining participants in our meetings, making it easier to ensure a successful and well-attended meeting
+## 😤 Seedha Sawaal — Aapki Meeting Kaisi Dikhti Hai?
 
-## Play Zoom Fake Participants Generator Video For Demo
-Click on this Image and Watch Demo
-[![Watch the Demo Video](https://github.com/AjitSinghDeveloper/Zoom-Fake-Participants-Generator/blob/main/maxresdefault.jpg)](https://www.youtube.com/watch?v=AlIyodWMsw8)
+<br/>
 
+```
+Aap meeting host karte ho...
+Aap apna best dete ho...
+Aur phir ye hota hai 👇
+```
 
+| Jo Hona Chahiye | Jo Actually Hota Hai |
+|-----------------|---------------------|
+| 500 log meeting mein | Sirf 10-15 log dikhte hain |
+| Reactions aati rahein | Bilkul silent — koi emoji nahi |
+| Comments ho rahe hon | Comment section blank pada hai |
+| Meeting energetic lage | Sab ek taraf se boring lag raha hai |
+| Screenshot shaandar ho | Screenshot mein sharam aati hai |
+| Clients impress hon | "Bhai, log hi nahi hain tumhare" |
 
-### How do you get 1000 participants on Zoom?
+<br/>
 
-## What Is Zoom Meeting Participants Generator?
-The “Zoom Meeting Participants Generator” is a tool created using Python that allows us to quickly add members to our meeting in just a short amount of time.
+> ## 😔 *Ye sab isliye hota hai kyunki aapke paas ek cheez nahi hai — **Meeting Bot.***
 
-To quickly add members to your Zoom meeting, you will need a Remote Desktop (RDP) and a Zoom Meeting Participants Generator. If you can meet this requirement, the Zoom Meeting Participants software will assist you in having members join your meeting in a short amount of time.
+<br/>
 
-### Read This Also
-[![Telegram Fake User Filter Using Python](https://img.shields.io/badge/Telegram%20Fake%20User%20Filter-Using%20Python%20Easy%20To%20Use-red?style=for-the-badge)](https://github.com/AjitSinghDeveloper/Telegram-Fake-User-Filter-Using-Python)
+---
 
-# How many member we can join in meeting using this software
-According to your plan and with an Intel Xeon 16-Core processor and 64 GB RAM RDP, you can have approximately 40 to 50 members join using a single RDP. If you wish to have 1000 members join your meeting, you would need to employ 20 RDPs to achieve that.
+<br/>
 
-You would need to set up your software separately on each of the RDPs and initiate the software individually on each RDP. However, it’s crucial to ensure that the configuration files for all the RDPs contain the same meeting ID and password for your meeting. This consistency is essential for the coordinated joining of participants.
+## 🔥 Ye Bot Kya Karta Hai — Ek Line Mein
 
-## Why Use a Meeting Participants Generator?
+> **"Aapki Zoom ya Teams meeting mein — auto participants, auto reactions, aur auto comments — sab ek saath."**
 
-We use the Zoom Meeting Participants Generator for the following reason: Many times, when a company holds meetings on Zoom to launch their products, they may struggle to attract a sufficient number of participants. This can result in empty meetings, which can negatively impact the company’s image.
+<br/>
 
-In such scenarios, companies can use this software to quickly add members to their Zoom meeting, thereby addressing the issue of low participation and enhancing their meeting’s impact.
+```
+Aap sirf ye karo 👇              Bot baaki sab karega 👇
+─────────────────────            ──────────────────────────────
+Meeting ID & Password do    →    Participants join karwayega
+Members count batao         →    Utne hi log dikhenge
+Reactions ON karo           →    👍❤️🔥😮 — reactions aane lagengi
+Comments ON karo            →    "Great session!" — comments aane lagengi
+Time set karo               →    Bilkul time par sab ready hoga
+```
 
-### Boosting Credibility: 
-When you are starting a new online event or webinar, it can be challenging to attract real participants. Using a Meeting Participants Generator can give the impression of a well-attended event, attracting more genuine attendees.
-### Enhancing Engagement: 
-A larger participant count can motivate your audience to participate actively, ask questions, and engage in discussions, making your event more interactive.
-### Attracting Sponsors: 
-Sponsors and partners often look at the number of participants when deciding to support an event. A higher participant count can help you secure valuable sponsorship’s.
-### Educational Impact: 
-In educational settings, a bigger audience can encourage students to be more attentive and participate actively in discussions.
+<br/>
 
-## How to Use Zoom Meeting Participants Generator
+---
 
-You can use the Zoom Meeting Participants Generator with great ease. As per the instructions mentioned above, if you have an RDP, you can follow the steps outlined below :-
+<br/>
 
-**Python Download :** First, open Google Chrome and proceed to download Python 3.10.3 version.
+## 🧩 Teen Features — Teen Problems Ka Solution
 
-**Install Modul :** Next, locate the Python file named “Install.py” within the software, and double-click on it to install Python modules.
+<br/>
 
-**Setup Config File :** Open the configuration file and enter your meeting’s ID, password, and the desired number of members to join. After making these entries, save the file.
+### 🟣 Feature 1 — Auto Participants
 
-**Start Meeting :** Now, go to your meeting and start it.
+**Problem jo aap jhel rahe ho:**
+> *"Main Zoom meeting join karta hoon — 500 log hone chahiye — lekin sirf 12 dikhte hain. Akela host baitha rehta hoon."*
 
-**Start Tool File :** In the folder you downloaded, you will find a file named “Start.py.” Open and run this file to begin the process, and observe as members start joining your meeting.
+**Ye bot kya karta hai:**
+```
+Aap bolte ho → "500 members chahiye"
+Bot karta hai →  Server chalata hai
+                 → 500 participants meeting mein aate hain
+                 → Har participant ka alag naam hota hai
+                    (Hindi / English / Aapki Custom List)
+                 → Zoom aur Teams — dono par kaam karta hai ✅
+```
 
-### How do you add Meeting participants in zoom?
-## Does Zoom generate a list of participants? 
-Indeed, with the assistance of the Zoom Meeting Participants software, you can easily save members as per your requirements in your “name.csv” file and have them join your meeting seamlessly.
+**Fayda jo seedha milta hai:**
+- 📸 Screenshot lo — **full house dikhega**
+- 💼 Clients ko dikhao — **"itne log active hain"**
+- 🎤 Host khud confident rehta hai jab room bhara ho
+- 👥 Real audience bhi zyada engage hoti hai bhare room mein
 
-### Read This Also
-[![Telegram Fake User Filter Using Python](https://img.shields.io/badge/Zoom%20Meeting%20Participants%20With%20Profile-Using%20Python%20Easy%20To%20Use-red?style=for-the-badge)](https://github.com/AjitSinghDeveloper/Zoom-Meeting-Participants-With-Profile)
+<br/>
 
-To join a list of members with names according to your preferences, start by opening the “name.csv” file and save the names you desire. Next, edit the “config.ini” file, specifying the number of members you wish to join,
+---
 
-and then save the file. Finally, initiate the “Start.py” file from the software folder. This process allows you to have members join your meeting based on your specified name list.
+### 🟠 Feature 2 — Auto Reactions ❤️ 🔥 👍 😮
 
-### Adding Meeting zoom Participants but script is not stable
-If you are using a Python script to have members join your meeting and you are facing issues with participant stability, such as participants leaving the meeting after a certain period, there could be several factors contributing to this:
+**Problem jo aap jhel rahe ho:**
+> *"Main bolte bolte ruk jaata hoon — koi reaction nahi, koi emoji nahi — lagta hai main khud se baat kar raha hoon."*
 
-Network Stability: Ensure that both your RDP and network connection are stable, as connectivity problems can lead to participants dropping out.
-Zoom Account Settings: Review your Zoom account settings, as specific configurations may affect participant stability in your meeting.
-Script Reliability: Check the reliability of the Python script you are using. It’s essential that the script is well-coded and free from errors that might cause participants to leave unexpectedly.
+**Ye bot kya karta hai:**
+```
+Aap bolte ho → "Reaction Mode ON"
+Bot karta hai →  Meeting ke dauran automatically react karta hai
+                 → 👍 ❤️ 🔥 😮 🎉 — real-time mein
+                 → Random timing par — natural lagta hai
+                 → Poori meeting tak — band nahi hota
+```
 
-## Zoom Meeting Participants Why Not Join The Mic
+**Fayda jo seedha milta hai:**
+- 🎯 Speaker ka **morale high** rehta hai — woh aur achha deliver karta hai
+- 👀 Nayi audience dekhti hai reactions — **"sach mein engaging hai"**
+- 📹 Meeting recording mein bhi reactions dikhte hain
+- 💡 Investors/clients sochte hain — **"community active hai"**
 
-When you start your Python script, and members join successfully but encounter issues with their microphones not connecting, it’s possible that there may be problems with your XPaths or button IDs. XPath and button IDs are crucial elements in web automation,
+<br/>
 
-If you have script for update you can contact us on	WhatsApp
-and they help in locating and interacting with specific elements on a web page. It’s important to ensure that the XPaths and button IDs you’re using are accurate and correctly configured. If they are not, it can lead to issues with various functionalities, including microphone connections.
+---
 
-If you are not familiar with XPath and button IDs, you can consider hiring a developer to update your script. This issue is likely related to script updates, and a developer can help ensure that your script functions smoothly and addresses the microphone connection problem.
+### 🟡 Feature 3 — Auto Comments 💬
 
-## Zoom Meeting Participants App
-To add Meeting members to a Zoom meeting, you are correct that Zoom does not provide an official app for this purpose. The most common method for achieving this is by using a Python script, as you mentioned.
+**Problem jo aap jhel rahe ho:**
+> *"Comment section bilkul khali hai. Maine kuch poocha — koi answer nahi. Silence... aur embarrassment."*
 
-If you require a Python script, you can download it by clicking on the download button provided in the article above.
+**Ye bot kya karta hai:**
+```
+Aap bolte ho → "Auto Comment ON" + apne 500 comments paste karo
+Bot karta hai →  Meeting ke dauran comments karta rehta hai
+                 → "Bahut clear explain kiya!"
+                 → "Ye point samajh aa gaya, thanks!"
+                 → Aapke apne custom comments — aapki hi boli mein
+```
 
-## How to get zoom Meeting participants by country
-You can use the “Zoom Meeting Participants by Country” feature to have participants join based on the country names you specify in your “name.csv” file. When you start the software, it will automatically use the names from the CSV file to join your meeting,
+**Fayda jo seedha milta hai:**
+- 💬 Comment section **"zinda"** lagta hai
+- 🔄 New joiners dekhte hain — **log participate kar rahe hain** — toh woh bhi rukते hain
+- 📊 Meeting replay mein bhi comments dikhte hain — credibility badhti hai
+- 🤝 Aapka product/service zyada **trustworthy** lagta hai
 
-ensuring that participants from the specified countries are added to your Zoom meeting. This feature can be useful for adding participants from specific regions to your meeting.
+<br/>
 
-## zoom Meeting participants error
-There are indeed various reasons why you might encounter errors when using Zoom Meeting Participants. These could be related to your internet connection, username/password issues, computer configuration, updates for Google Chrome or Zoom, and more.
+---
 
-If you’re facing persistent errors, it’s a good idea to seek assistance from a developer who can help you identify and resolve these issues by updating your script and configurations. If you don’t have a developer available, you can comment on this article, and we will provide you with the necessary help and guidance. Our goal is to support you in your endeavors and ensure that you can successfully achieve your objectives.
+<br/>
 
-If you are searching for a “Zoom Meeting Participants” website, it’s important to note that there is no legitimate website or panel that allows you to add Meeting members to your Zoom meetings. You are correct that using a Python script is one of the common methods for adding members to your Zoom meeting. There are limited official methods for managing meeting participants in Zoom,
+## 📋 Form Guide — Step by Step (Ek Ek Cheez Samjho)
 
-In the article we explained how you can use Python and Selenium to potentially add members to your Zoom meetings. We hope you have understood the process. However, if you still have any questions or concerns, please feel free to ask in the comments.
+> Jab aap **"➕ Create Meeting"** dabate ho — ye form khulti hai.
+> Neeche har ek field explain hai — **kya bharna hai aur kyun.**
+
+<br/>
+
+---
+
+### 📌 FORM PART 1 — Platform & Type
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   Sabse Pehle — Kaunsa Platform?                                │
+│                                                                 │
+│   ╔═══════════════════════╗  ╔═══════════════════════════════╗  │
+│   ║  🎥  Zoom   ← chunein ║  ║      💼  Microsoft Teams      ║  │
+│   ╚═══════════════════════╝  ╚═══════════════════════════════╝  │
+│                                                                 │
+│   Phir — Ek Meeting Ya Kai?                                     │
+│                                                                 │
+│   ╔═══════════════════════╗  ╔═══════════════════════════════╗  │
+│   ║  📋  Single ← aaj ki ║  ║  📅  Multiple ← kai dates     ║  │
+│   ╚═══════════════════════╝  ╚═══════════════════════════════╝  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🤔 Konsa choose karein?**
+
+> **Zoom ya Teams?**
+> → Wahi jo aapki meeting ka platform hai. Zoom ID 9-11 digit ka hota hai. Teams mein meeting link ya ID dono chalega.
+
+> **Single ya Multiple?**
+> → Sirf aaj ek baar = **Single**
+> → Kal bhi, parson bhi, agle hafte bhi = **Multiple** *(ek baar bharo — kai baar chalega)*
+
+**⚡ Ye kyun zaroori hai:**
+> Galat platform choose kiya to meeting ID kaam nahi karega. Ek second leke sahi chunein.
+
+<br/>
+
+---
+
+### 📌 FORM PART 2 — Meeting Ka Naam
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   Meeting Name *                                                │
+│   ┌─────────────────────────────────────────────────────────┐  │
+│   │  Tron Daily Session  /  BTC Class  /  Crypto Meeting    │  │
+│   └─────────────────────────────────────────────────────────┘  │
+│                                                                 │
+│   ✏️  Max 50 characters  ·  Koi bhi naam chalega               │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🤔 Kya likhein?**
+> Apni meeting ka naam — jaise "Tron Session", "Daily Class", "Team Meeting". Kuch bhi.
+
+**⚡ Ye kyun zaroori hai:**
+> Aapki **My Meetings** list mein yahi naam dikhega. Baad mein track karne ke liye helpful hai.
+
+<br/>
+
+---
+
+### 📌 FORM PART 3 — Meeting ID & Password *(Sabse Important)*
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   Meeting ID *                     Password *                  │
+│   ┌───────────────────────────┐   ┌─────────────────────────┐  │
+│   │   1 2 3   4 5 6 7   8 9  │   │   a b c 1 2 3           │  │
+│   └───────────────────────────┘   └─────────────────────────┘  │
+│                                                                 │
+│   🔵 Zoom:   ID = 9 se 11 digits   Password = letters/numbers  │
+│   🟣 Teams:  Meeting ID ya link   Password = agar ho to        │
+│                                                                 │
+│   ✅  Zoom ID: 123456789  ·  Pass: abc123  ← auto verify hoga  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🤔 Kahan se milega Meeting ID?**
+
+```
+Zoom Meeting ID kahan milta hai:
+──────────────────────────────────
+Zoom App kholo
+→ "Meetings" tab par jao
+→ Apni meeting select karo
+→ Meeting ID wahan dikhega: 123 4567 8901
+→ Spaces hatao → 12345678901 → form mein daalo ✅
+
+Password kahan milta hai:
+──────────────────────────────────
+Wahi meeting details mein hoga
+Ya invite link mein:
+zoom.us/j/12345678901?pwd=abc123
+                           ↑ yahi hai password
+```
+
+**⚡ Ye kyun sabse zaroori hai:**
+> ❌ Galat ID = participants join nahi kar paayenge
+> ❌ Galat Password = entry block ho jaayegi
+> ✅ Sahi ID + Password = bot seedha join karega — koi rukawat nahi
+
+<br/>
+
+---
+
+### 📌 FORM PART 4 — Reactions & Comments *(Yahan Asli Magic Hai)*
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   ┌───────────────────────────┐  ┌───────────────────────────┐  │
+│   │  🔴 Auto Reaction         │  │  🟡 Auto Comment          │  │
+│   │                           │  │                           │  │
+│   │  ┌────────┐  ┌─────────┐  │  │  ┌────────┐  ┌────────┐  │  │
+│   │  │  Yes   │  │  No ✓   │  │  │  │  Yes   │  │  No ✓  │  │  │
+│   │  └────────┘  └─────────┘  │  │  └────────┘  └────────┘  │  │
+│   └───────────────────────────┘  └───────────────────────────┘  │
+│                                                                 │
+│   [Agar Comment = Yes chuna]                                    │
+│   ┌─────────────────────────────────────────────────────────┐  │
+│   │  Bahut acha explain kiya!                               │  │
+│   │  Ye point clear ho gaya thanks                          │  │
+│   │  Great session aaj ka...                                │  │
+│   │                              ← 500 comments daalne hain │  │
+│   └─────────────────────────────────────────────────────────┘  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🤔 Yes ya No — kya choose karein?**
+
+| Aap Kya Chahte Ho | Kya Choose Karein |
+|-------------------|-------------------|
+| Sirf participants — bas | Dono No |
+| Reactions bhi chahiye | Reaction = Yes |
+| Comments bhi chahiye | Comment = Yes |
+| Poori engagement chahiye | Dono Yes ← **Recommended** |
+
+**⚡ Ye kyun zaroori hai:**
+> Sirf participants hona kaafi nahi.
+> Jab **reactions + comments** bhi hote hain — tab meeting **"zinda"** lagti hai.
+> Investor dekhta hai → reactions hain → "community active hai" → trust badh jaata hai.
+> **Ye ek baar ON karo — phir meeting khud bolta hai.**
+
+<br/>
+
+---
+
+### 📌 FORM PART 5 — Time *(16 Minute Ka Rule — Poora Padho)*
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   Meeting Time *                                                │
+│                                                                 │
+│   ┌──────────┐   ┌──────────┐   ┌─────────────────────────┐   │
+│   │  Hour    │   │  Minute  │   │     AM      PM ✓         │   │
+│   │  [ 08 ▼] │   │  [ 30 ▼] │   └─────────────────────────┘   │
+│   └──────────┘   └──────────┘                                  │
+│                                                                 │
+│   ✅  SAHI:   ─────────────────────────────────────────────    │
+│       Current time:  8:10 PM                                   │
+│       Meeting time:  8:30 PM  ← 20 min aage ✅                 │
+│       "Time Valid — Server Jaldi Start Ho Jaayega!"            │
+│                                                                 │
+│   ⛔  GALAT:  ─────────────────────────────────────────────    │
+│       Current time:  8:25 PM                                   │
+│       Meeting time:  8:30 PM  ← Sirf 5 min aage ❌             │
+│       "Server ko 16 min chahiye — Earliest: 8:41 PM"          │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🤔 Time kaise set karein?**
+
+```
+1. Apni meeting ka actual time dekho (Zoom/Teams mein)
+2. Us se 16 minute pehle form bharo
+3. Form khud batayega — green ✅ ya red ⛔
+
+Example:
+   Meeting: 9:00 PM
+   Form bharo:  8:44 PM se pehle ← sahi
+   Form bharo:  8:50 PM par ← galat, server ready nahi hoga
+```
+
+**⚡ Ye kyun zaroori hai:**
+> Bot ko server start karne ke liye time chahiye.
+> ❌ Late bhara → Server ready nahi → Participants nahi aayenge → Paisa gaya, kaam nahi hua
+> ✅ Time par bhara → Server ready → Sab perfect
+
+<br/>
+
+---
+
+### 📌 FORM PART 6 — Members Count & Duration *(Price Yahaan Banta Hai)*
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   💡 Pricing (Auto update hoti hai)                             │
+│   ┌───────┬───────┬───────┬───────┬───────┬────────┐           │
+│   │  50   │  100  │  200  │  300  │  500+ │ 1000+  │           │
+│   │ ₹1.10 │ ₹1.00 │ ₹0.95 │ ₹0.90 │ ₹0.80 │  ₹0.75 │           │
+│   └───────┴───────┴───────┴───────┴───────┴────────┘           │
+│                                                                 │
+│   Kitne Members?           Kitne Ghante?                       │
+│   ┌─────────────────────┐  ┌────────────────────────────────┐  │
+│   │        500          │  │   1h  ✓   │   2h   │   3h      │  │
+│   └─────────────────────┘  └────────────────────────────────┘  │
+│                                                                 │
+│        ₹0.80 / member               Total: ₹400                │
+│        ↑ auto calculate                    ↑ auto calculate    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🤔 Kitne members daalein?**
+
+```
+Sochke daalo — kyunki ye directly price affect karta hai:
+
+  50 members  → ₹1.10/member  (chhota meeting)
+  100 members → ₹1.00/member
+  300 members → ₹0.90/member
+  500 members → ₹0.80/member  ← sabse popular
+  1000 members→ ₹0.75/member  (bulk — sabse sasta rate)
+
+Jitne zyada members — utna sasta rate! 📉
+```
+
+**🤔 Duration — 1h, 2h, ya 3h?**
+> Meeting kitni der ki hai — woh select karo.
+> 2 ghante ki meeting mein 1 ghante wala time select kiya → bot 1 ghante baad band ho jaayega.
+
+**⚡ Ye kyun zaroori hai:**
+> Price yahan decide hoti hai. Members jyada = rate kam = zyada value.
+> Sahi duration select karo warna beech mein bot band ho jaayega.
+
+<br/>
+
+---
+
+### 📌 FORM PART 7 — Name Type *(Participants Ke Naam Kaisa Ho)*
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   Name Type                                                     │
+│   ┌─────────────────────────────────────────────────────────┐  │
+│   │  Hindi Names ▼                                          │  │
+│   │  ─────────────────────                                  │  │
+│   │  Hindi Names   ← Indian names (Ramesh, Priya, Ajit)    │  │
+│   │  English Names ← English names (John, Sarah, Mike)     │  │
+│   │  Custom Names  ← Aapki khud ki list                    │  │
+│   └─────────────────────────────────────────────────────────┘  │
+│                                                                 │
+│   [Agar Custom choose kiya]                                     │
+│   ┌─────────────────────────────────────────────────────────┐  │
+│   │  Ramesh Kumar                                           │  │
+│   │  Priya Sharma                                           │  │
+│   │  Suresh Patel                                           │  │
+│   │  ... apni list yahan paste karo (ek naam ek line)       │  │
+│   │                              12 names  │  🗑️ Clear      │  │
+│   └─────────────────────────────────────────────────────────┘  │
+│                                                                 │
+│   ✅ Preview: Ramesh Kumar / Priya Sharma / Suresh Patel...    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🤔 Kaunsa choose karein?**
+
+| Aapki Zaroorat | Choose Karein |
+|----------------|---------------|
+| Indian audience, Indian feel | Hindi Names |
+| International meeting | English Names |
+| Apne actual contacts ke naam | Custom Names |
+
+**Custom Names kaise paste karein?**
+```
+Ek naam ek line mein likho:
+  Ramesh Kumar
+  Priya Sharma
+  Ajit Singh
+  ...
+
+Copy karo → Textarea mein paste karo → Done!
+Bot automatically clean karega — numbering, bullets sab hata dega.
+```
+
+**⚡ Ye kyun zaroori hai:**
+> Custom names se meeting **bilkul real lagti hai**.
+> Agar aapke actual students/team ke naam hain — to koi bata bhi nahi sakta ki ye bot hai.
+
+<br/>
+
+---
+
+### 📌 FORM PART 8 — Multiple Dates *(Sirf Multiple Mode Mein)*
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   Select Dates *                                                │
+│   ┌─────────────────────────────────────────────────────────┐  │
+│   │  📅 20/05 ×    📅 21/05 ×    📅 25/05 ×      3 days    │  │
+│   └──────────────────────────── tap to add/remove ──────────┘  │
+│                                                                 │
+│   ╔─── Calendar ────────────────────────────────────────────╗  │
+│   ║       ◀   May 2025   ▶                            ✕     ║  │
+│   ║  📍 Go to Today                                         ║  │
+│   ║                                                          ║  │
+│   ║   Su  Mo  Tu  We  Th  Fr  Sa                            ║  │
+│   ║                1   2   3   4                            ║  │
+│   ║    5   6   7   8   9  10  11                            ║  │
+│   ║   12  13  14  15  16  17  18                            ║  │
+│   ║   19 [20][21] 22  23  24 [25]  ← blue = selected        ║  │
+│   ║   ──────────────────────────────────────────────        ║  │
+│   ║   Clear      3 dates selected              Done ✓       ║  │
+│   ╚─────────────────────────────────────────────────────────╝  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🤔 Multiple Mode kab use karein?**
+
+```
+Example situation:
+──────────────────────────────────────────────────────
+Aapki daily class hai — har roz 7 PM — agle 10 din tak
+Har roz alag alag form bharna padega? ❌ — nahi!
+
+Multiple select karo:
+→ Dates: 20, 21, 22, 23, 24, 25 May
+→ Time: 7 PM
+→ Members: 300
+→ Save Meeting dabao
+
+Bot: ✅ 6 meetings schedule ho gayi
+     Roz 7 PM par automatically run hoga
+     Aapko ek baar bhi dobara nahi bharna padega! 🎉
+```
+
+**⚡ Ye kyun zaroori hai:**
+> Daily meetings ke liye **time bachata hai**.
+> Ek baar setup → bot khud karta rahega.
+
+<br/>
+
+---
+
+### 📌 FORM PART 9 — Confirm Screen *(Submit Se Pehle Yahan Dekho)*
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│              ✅  Confirm Meeting                                 │
+│     Review karo — phir submit karo                             │
+│                                                                 │
+│  ┌───────────────────────────────────────────────────────────┐ │
+│  │  Platform       🎥 Zoom                                   │ │
+│  │  Meeting Name   Tron Daily Session                        │ │
+│  │  Meeting ID     12345678901                               │ │
+│  │  Password       abc123                                    │ │
+│  │  Members        500                                       │ │
+│  │  Start Time     08:30 PM  ✅                              │ │
+│  │  Duration       1 Hour                                    │ │
+│  │  End Time       09:30 PM                                  │ │
+│  │  Date           20/05/2025 (Today)                        │ │
+│  │  Rate (RPM)     ₹0.80/member                              │ │
+│  │  Reaction       No                                        │ │
+│  │  Auto Comment   No                                        │ │
+│  └───────────────────────────────────────────────────────────┘ │
+│                                                                 │
+│  ┌─── 💰 Balance Check ──────────────────────────────────────┐ │
+│  │  ✅  Sufficient                                            │ │
+│  │  Your Balance: ₹1,200   Required: ₹400   Remaining: ₹800  │ │
+│  └───────────────────────────────────────────────────────────┘ │
+│                                                                 │
+│  ┌─────────────┐    ┌─────────────────────────────────────┐   │
+│  │  ← Back     │    │     ✅  Confirm & Submit             │   │
+│  └─────────────┘    └─────────────────────────────────────┘   │
+│  [           ✖  Cancel Meeting           ]                      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🤔 Confirm screen par kya check karein?**
+
+```
+✅ Meeting ID sahi hai?      ← galat ID = participants nahi aayenge
+✅ Password sahi hai?        ← galat pass = block ho jaayega
+✅ Time sahi hai?            ← past time = bot nahi chalega
+✅ Balance sufficient hai?   ← kam balance = submit nahi hoga
+✅ Members sahi count hai?   ← baad mein change nahi ho sakta
+```
+
+**Submit ke baad kya hoga:**
+```
+1. ₹400 balance deduct hoga (automatically)
+2. Bot ko signal jaayega
+3. Meeting time par — participants join karenge
+4. Reactions/Comments (agar ON kiya) — aane lagengi
+5. Aapko Telegram par confirmation message aayega ✅
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 🏆 Kyun Ye Bot Ek Baar Try Karna Chahiye?
+
+<br/>
+
+```
+╔═════════════════════════════════════════════════════════════════╗
+║                                                                 ║
+║   Sirf ₹400 mein —                                              ║
+║                                                                 ║
+║   500 participants     →  ₹400                                  ║
+║   Reactions            →  ON  🔥                                ║
+║   Comments             →  ON  💬                                ║
+║   Professional meeting →  ✅                                    ║
+║   Client ka trust      →  📈                                    ║
+║   Aapka confidence     →  💪                                    ║
+║                                                                 ║
+║   Ye cheez aap manually kar sakte ho?   ❌  Nahi               ║
+║   Ye cheez aap afford nahi kar sakte?   ❌  Bilkul kar sakte    ║
+║                                                                 ║
+║   Toh aaj hi try karo.                                         ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 💰 Pricing — Poora Hisaab
+
+| Members | 1 Hour | 2 Hours | 3 Hours |
+|---------|--------|---------|---------|
+| 50 | ₹55 | ₹63 | ₹72 |
+| 100 | ₹100 | ₹115 | ₹131 |
+| 200 | ₹190 | ₹219 | ₹249 |
+| 300 | ₹270 | ₹311 | ₹354 |
+| **500** | **₹400** | **₹460** | **₹524** |
+| 1000 | ₹750 | ₹863 | ₹983 |
+
+**Reactions/Comments ke saath:**
+
+| Mode | Rate |
+|------|------|
+| No Reaction, No Comment | ₹1.10 → ₹0.75/member |
+| Sirf Reaction ON | ₹2.00 → ₹1.40/member |
+| Sirf Comment ON | ₹2.00 → ₹1.40/member |
+| Dono ON *(Recommended)* | ₹2.90 → ₹1.50/member |
+
+> 💳 **Balance USDT BEP20 se add hota hai** — $1 = ₹90
+
+<br/>
+
+---
+
+<br/>
+
+## ❓ Aksar Pooche Jaane Wale Sawaal
+
+**Q: Kya ye Zoom aur Teams dono par kaam karta hai?**
+> ✅ Haan — fully supported.
+
+**Q: Participants real lagte hain ya bot wale?**
+> Bilkul real — aapki custom name list use hoti hai. Koi bata nahi sakta.
+
+**Q: Agar meeting delete karni ho?**
+> My Meetings → Delete → **Pura refund** milega. *(Meeting start se 15 min pehle karna hoga)*
+
+**Q: Ek baar submit ke baad change ho sakta hai?**
+> Nahi — isliye confirm screen par sab check karo.
+
+**Q: Koi problem aaye to?**
+> WhatsApp ya Telegram — 5 se 30 min mein response pakka.
+
+<br/>
+
+---
+
+<br/>
+
+## 🚀 Abhi Shuru Karo
+
+<div align="center">
+
+<br/>
+
+### 👇 Yahan Se Direct Bot Open Karo
+
+<br/>
+
+<a href="https://t.me/armanparticipantsbot">
+  <img src="https://img.shields.io/badge/🤖%20%20Telegram%20Bot%20—%20Meeting%20Shuru%20Karo%20Abhi-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" height="55"/>
+</a>
+
+<br/><br/>
+
+<a href="https://wa.me/917000000000?text=Hi%2C%20Meeting%20Bot%20use%20karna%20hai%20—%20help%20chahiye">
+  <img src="https://img.shields.io/badge/💬%20%20WhatsApp%20Support%20—%20Demo%20%26%20Help%20Lein-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="55"/>
+</a>
+
+<br/><br/>
+
+| | |
+|---|---|
+| 🤖 **Telegram Bot** | [@armanparticipantsbot](https://t.me/armanparticipantsbot) |
+| 💬 **WhatsApp** | [+91 70000 00000](https://wa.me/917000000000) |
+| ⏰ **Response** | 5 – 30 minutes |
+| 🌐 **Active** | 24/7 |
+
+<br/>
+
+> *"Ek baar try karo — meeting ka fark pehle din se dikhega."* 🔥
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Keywords:** `zoom meeting bot` · `auto participants zoom` · `meeting reactions bot` · `auto comment zoom meeting` · `teams meeting participants` · `telegram meeting bot` · `zoom engagement bot` · `meeting active karna` · `zoom participants increase` · `meeting bot india`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
